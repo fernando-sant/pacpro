@@ -1,0 +1,12 @@
+vector,yield,emission_factor
+wood_open_hearth,0.2,0.114
+wood_closed_hearth,0.8,0.114
+wood_pellet_stove,0.9,0.111
+natural_gas,1.04,0.227
+oil,1.02,0.324
+coal,0.8,0.400
+solar,0.95,0.044
+ACHP,0,0
+GCHP,0,0
+resistive_heating,1,0
+heat_network,1,0.100
